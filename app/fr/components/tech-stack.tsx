@@ -26,7 +26,6 @@ import {
   DockIcon as Docker,
   ComputerIcon as VirtualMachine,
   Figma,
-  Image,
   Trello,
   Github,
   Cog,
@@ -115,8 +114,8 @@ const getIconForSkill = (skill: string) => {
       return <DatabaseIcon size={16} />
     case "figma":
       return <Figma size={16} />
-    case "adobe photoshop":
-      return <Image size={16} />
+      case "adobe photoshop":
+        return <Figma size={16} />
     case "adobe illustrator":
       return <PenTool size={16} />
     case "canva":
