@@ -24,14 +24,14 @@ const projects = [
   },
   {
     title: "Project Root",
-    description: "Projet de développement web avec focus sur l'architecture et la gestion de système.",
+    description: "Projet de développement web avec focus sur l&apos;architecture et la gestion de système.",
     image: "/placeholder.svg?height=400&width=600",
     link: "https://github.com/mickael234/project-root",
     tags: ["Web Development", "System Architecture"],
   },
   {
     title: "ISO Project",
-    description: "Projet lié aux systèmes d'exploitation et à la gestion des images ISO.",
+    description: "Projet lié aux systèmes d&apos;exploitation et à la gestion des images ISO.",
     image: "/placeholder.svg?height=400&width=600",
     link: "https://github.com/mickael234/ISO",
     tags: ["System", "ISO", "OS"],
@@ -76,8 +76,8 @@ export default function Page() {
           <div className={styles.container}>
             <h2 className={styles.title}>À propos de moi</h2>
             <p className={styles.aboutText}>
-              Étudiant en dernière année de Génie logiciel et systèmes d'information, passionné par les TI. Compétences
-              variées en systèmes d'information, programmation, sécurité, réseaux, design, machine learning et gestion
+              Étudiant en dernière année de Génie logiciel et systèmes d&apos;information, passionné par les TI. Compétences
+              variées en systèmes d&apos;information, programmation, sécurité, réseaux, design, machine learning et gestion
               de projet (Agile).
             </p>
             <div className={styles.buttonContainer}>
@@ -163,7 +163,7 @@ export default function Page() {
         <section id="contact" className={styles.section}>
           <div className={styles.container}>
             <h2 className={styles.title}>Contact</h2>
-            <p className={styles.aboutText}>N'hésitez pas à me contacter en utilisant les informations suivantes :</p>
+            <p className={styles.aboutText}>N&apos;hésitez pas à me contacter en utilisant les informations suivantes :</p>
             <div className={styles.contactInfo}>
               <p>
                 <strong>Email :</strong> ezeckieldiarrassouba@gmail.com
