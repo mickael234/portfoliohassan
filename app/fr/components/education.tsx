@@ -53,7 +53,7 @@ const ListItem = styled.li`
 export default function Education() {
   const educationData = [
     {
-      degree: "4ème année Génie logiciel et systèmes d'information",
+      degree: "4ème cloud security analyst and IA",
       institution: "Iteam University, Tunis",
       period: "Oct 2024 - Présent",
       details: [
