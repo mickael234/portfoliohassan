@@ -76,7 +76,7 @@ export default function Page() {
           <div className={styles.container}>
             <h2 className={styles.title}>À propos de moi</h2>
             <p className={styles.aboutText}>
-              Étudiant en dernière année de Génie logiciel et systèmes d&apos;information, passionné par les TI. Compétences
+              Étudiant en dernière année de cloud security analyst et systèmes d&apos;information, passionné par les TI. Compétences
               variées en systèmes d&apos;information, programmation, sécurité, réseaux, design, machine learning et gestion
               de projet (Agile).
             </p>

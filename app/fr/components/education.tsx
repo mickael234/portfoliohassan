@@ -53,24 +53,24 @@ const ListItem = styled.li`
 export default function Education() {
   const educationData = [
     {
-      degree: "3ème année Génie logiciel et systèmes d'information",
+      degree: "4ème année Génie logiciel et systèmes d'information",
       institution: "Iteam University, Tunis",
       period: "Oct 2024 - Présent",
       details: [
-        "Base solide en développement logiciel",
-        "Compétences techniques clés en systèmes d'exploitation, sécurité informatique, machine Learning, webservices, virtualisation et architecture SOA",
+        "Base solide en développement logiciel,creation de chatbot et maintenance and analyste server data ",
+        "Compétences techniques clés en systèmes d'exploitation, sécurité informatique, machine Learning, webservices, virtualisation et architecture SOA et server data maintenance and analyst",
       ],
     },
     {
-      degree: "2ème année Génie logiciel et systèmes d'information",
+      degree: "3ème cloud security analyst et systèmes d'information",
       institution: "Iteam University, Tunis",
       period: "Oct 2023 - Juin 2024",
       details: [
-        "Formation en développement logiciel, gestion et administration des bases de données, et gestion de projets en méthodologie Agile (Scrum)",
+        "Formation en Virtualisation et Cloud,Securite informatique, machine learning et analyste de donner,  gestion et administration des bases de données, et gestion de projets en méthodologie Agile (Scrum)",
       ],
     },
     {
-      degree: "1ère année en Software Engineering (système anglophone)",
+      degree: "2ère année en Software Engineering (système anglophone)",
       institution: "Université libre de Kigali, Kigali",
       period: "Mars 2023 - Juil 2023",
       details: [
